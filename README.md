@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/59628974/130962551-4cdb3cc6-1fbe-4be5-a9b2-1c36d7bdce7a.png)
 
-:desktop_computer: : Atualmente estou estudando React Native,NodeJS.
+:desktop_computer: : Atualmente estou estudando ReactJS e NodeJS.
 
 :man_student: : Tambem estou cursando faculdade em Análise e Desenvolvimento de Sistema.
 
