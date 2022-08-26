@@ -4,9 +4,9 @@
 
 :desktop_computer: : Atualmente estou estudando ReactJS e Typescript.
 
-:man_student: : Tambem estou cursando faculdade em Análise e Desenvolvimento de Sistema.
+:man_student: : Formado em Análise e Desenvolvimento de Sistema.
 
-:alarm_clock: : Tenho 19 anos.
+:alarm_clock: : Tenho 20 anos.
 
 :fire: : "Aprendi que um vencedor é aquele que insiste, única luta que se perde é aquela que se desiste". Tz
 
