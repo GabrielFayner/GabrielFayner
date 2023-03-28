@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/59628974/130962551-4cdb3cc6-1fbe-4be5-a9b2-1c36d7bdce7a.png)
 
-:desktop_computer: : Atualmente estou estudando ReactJS e Typescript.
+:desktop_computer: : Atualmente estou trabalhando com React e Typescript.
 
 :man_student: : Formado em Análise e Desenvolvimento de Sistema.
 
@@ -27,7 +27,7 @@
  <div>
     <a href="https://instagram.com/gabrielfayner" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:gabrielfayner10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/gabriel-fayner-5843471b8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/gabrielfayner" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://www.facebook.com/gabrielfayner/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 </div>
   
