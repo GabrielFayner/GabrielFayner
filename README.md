@@ -16,8 +16,6 @@
   <a href="https://github.com/GabrielFayner">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFayner&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFayner&layout=compact&langs_count=7&theme=blue-green"/>
-  
-   ![Snake animation](https://github.com/GabrielFayner/GabrielFayner/blob/output/github-contribution-grid-snake.svg)
 </div>
 
   ##
@@ -28,7 +26,8 @@
    <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"> 
-   <img align="center" alt="MaterialUI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"> 
+   <img align="center" alt="MaterialUI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
+   <img align="center" alt="FramerMotion" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framermotion/framermotion-original.svg?size=145&color=b8dcff">
    <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> 
    <img align="center" alt="Storybook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg"> 
    <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
@@ -43,6 +42,7 @@
    <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">   
  <h3>Tests</h3>
   <img align="center" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+  <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain.svg?size=145&color=fff" />
  <h3>Versioning / Boards</h3>
   <img align="center" alt="trello" height="30" width="40" src="https://icongr.am/devicon/trello-plain.svg?size=145&color=b8dcff">
   <img align="center" alt="jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg">
