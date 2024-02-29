@@ -34,9 +34,7 @@
    <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
    <img align="center" alt="Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
   <h3>BackEnd</h3>
-   <img align="center" alt="Node" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-   <img align="center" alt="NestJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">     
-   <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"> 
+   <img align="center" alt="Node" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
    <img align="center" alt="express" height="30" width="40" src="https://icongr.am/devicon/express-original.svg?size=145&color=b8dcff"> 
   <h3>Cloud</h3>
    <img align="center" alt="Gitlab" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">  
